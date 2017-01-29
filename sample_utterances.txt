@@ -1,0 +1,24 @@
+NextBusIntent when is the next {Route} bus coming to {BusStop}
+NextBusIntent when will the next {Route} bus be at {BusStop}
+NextBusIntent next {Route} bus for {BusStop}
+NextBusIntent next {Route} bus {BusStop}
+WhichBusIntent which bus do I take to get to {BusStop} from {StartStop}
+WhichBusIntent what bus do I take to get from {StartStop} to {BusStop}
+WhichBusIntent which bus to get to {BusStop} from {StartStop}
+WhichBusIntent what bus do I take to get to {BusStop} from {StartStop}
+WhichBusIntent what bus to get to {BusStop} from {StartStop}
+WhichBusIntent how do I get to {BusStop} from {StartStop}
+WhichBusIntent how do I get from {StartStop} to {BusStop}
+WhichBusIntent how long will it take to get from {StartStop} to {BusStop}
+WhichBusIntent how long will it take to get to {BusStop} to {StartStop}
+WhichBusIntent how long will it take me to get from {StartStop} to {BusStop}
+WhichBusIntent when will I get to {BusStop} from {StartStop}
+WhichBusIntent when could I get to {BusStop} from {StartStop}
+WhichBusIntent how long would it take to get from {StartStop} to {BusStop}
+WhichBusIntent how long would it take to get to {BusStop} to {StartStop}
+WhichBusIntent how long would it take me to get from {StartStop} to {BusStop}
+WhichBusIntent give me info about getting from {StartStop} to {BusStop}
+WhichBusIntent best way to get from {StartStop} to {BusStop}
+WhichBusIntent tell me the fastest route from {StartStop} to {BusStop}
+BusJokesIntent tell me a bus joke
+BusJokesIntent tell me a joke

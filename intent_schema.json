@@ -1,0 +1,44 @@
+{
+  "intents": [
+    {
+      "intent": "NextBusIntent",
+      "slots": [
+        {
+          "name": "BusStop",
+          "type": "STOP"
+        },
+        {
+          "name": "Route",
+          "type": "ROUTE"
+        }
+      ]
+    },
+    {
+      "intent": "WhichBusIntent",
+       "slots": [
+        {
+          "name": "BusStop",
+          "type": "STOP"
+        },
+        {
+          "name": "StartStop",
+          "type": "STOP"
+        }
+      ]
+    },
+    {
+      "intent": "BusJokesIntent",
+       "slots": [
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
